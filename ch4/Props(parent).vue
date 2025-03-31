@@ -2,7 +2,7 @@
 <template>
   <div>
     <h1>할 일 목록</h1>
-    <todo-item :todo="tesk" />
+    <todo-item :todo="task" />
   </div>
 </template>
 <script>
